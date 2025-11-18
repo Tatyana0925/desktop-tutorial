@@ -44,6 +44,29 @@ address {
 ul {
     list-style-type: none;
 }
+.container-list {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.conteiner-garant {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.container-procedur {
+    width: 1216px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1060px;
+}
+
+.container-contact {
+    width: 1059px;
+    margin: 0 auto;
+}
 
 /*Button*/
 .button {
@@ -153,6 +176,10 @@ ul {
 /*Footer*/
 .contacts {
     padding: 48px 93px 48px 64px;
+}
+
+.foter-section {
+    padding: 28px 101px 56px 100px;
 }
 
 .footer-link {
