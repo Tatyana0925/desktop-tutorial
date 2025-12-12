@@ -301,6 +301,9 @@ ul {
 /*hero-section*/
 .hero-section {
     padding: 16.52px 706px 126.48px 205px;
+    background-image: url('../images/doctor-and-procedure.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 
 .hero-title {
