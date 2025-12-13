@@ -56,6 +56,10 @@ ul {
 
 .foters {
     background-color: var(--color-primary-dark);
+    height: 258px;
+    background-image: url('../images/buttels.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
 
 .container-nav {
@@ -383,6 +387,12 @@ ul {
 }
 
 /*Footer*/
+/*.footer {
+    background-image: url('../images/buttels.jpg');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}*/
+
 .foter-section {
     display: flex;
     width: 203px;
