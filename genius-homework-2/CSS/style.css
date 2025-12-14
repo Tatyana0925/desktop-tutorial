@@ -185,8 +185,10 @@ ul {
     display: flex;
     max-width: 1096px;
     height: 456px;
+    gap: 16px;
     margin: 0 auto;
     justify-content: center;
+    background-image: linear-gradient(180deg, rgba(1, 28, 68, 0) 47.4%, rgba(1, 28, 68, 0.73) 82.66%, #011c44 99.06%);
 }
 
 .procedure {
